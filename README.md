@@ -5,6 +5,8 @@ of COVID-19 transmission **via aerosols** in workplaces, **assuming all rooms wi
 are well mixed**. Risk of transmission from other mechanisms (e.g. fomites or breathing exhaled air
 directly) are not considered.
 
+The name is an acronym for ***Airborne Pathogen Spread Risk Model***.
+
 The framework has been designed to separate the specification of the behaviour of individuals and
 the characteristics of different workplaces. The core of the framework simply provides a set of
 algorithms that execute the following steps (in order) in each day:
