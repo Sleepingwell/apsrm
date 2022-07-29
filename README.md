@@ -1,5 +1,7 @@
 # apsrm
 
+This is a test of CLA assistant.
+
 An agent based model originally developed for assessing potential interventions to mitigate the risk
 of COVID-19 transmission **via aerosols** in workplaces, **assuming all rooms within the workplace
 are well mixed**. Risk of transmission from other mechanisms (e.g. fomites or breathing exhaled air
